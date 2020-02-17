@@ -2,6 +2,8 @@
 const var1 = 2;
 const var2 = 31;
 
-let multiply = var1 * var2;
+const multiply = var1 * var2;
 
-let random = Math.floor(Math.random() * 10) + 1;
+const random = Math.floor(Math.random() * 10) + 1;
+
+const mod = 0 % 6
