@@ -6,4 +6,4 @@ const multiply = var1 * var2;
 
 const random = Math.floor(Math.random() * 10) + 1;
 
-const mod = 
+const mod = 4 % 7
