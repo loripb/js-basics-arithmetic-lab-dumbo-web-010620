@@ -4,4 +4,4 @@ const var2 = 31;
 
 let multiply = var1 * var2;
 
-let random = 
+let random = Math.floor(Math.random() * 10) + 1;
